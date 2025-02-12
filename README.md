@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hello👋 I'm Reina
 ### AFOed OIer and ACMer
 - CSP-J 2019 Second Prize
-- CSP-S 2020 Second Prize
 - 🥉 Bronze Medal of CCPC 10th Jinan
-- 🏅 Iron Medal of ICPC 49th EC-Final
+
+### Soft Engineering
+Exploring in How to create fun facts
+Passionate about Typst and researching ways to contribute to its development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Nai&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
