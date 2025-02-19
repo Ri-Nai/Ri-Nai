@@ -5,7 +5,6 @@
 
 ### Soft Engineering
 Exploring in How to create fun facts
-Passionate about Typst and researching ways to contribute to its development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Nai&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
