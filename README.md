@@ -6,7 +6,7 @@
 ### Soft Engineering
 Exploring in How to create fun facts
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Nai&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Nai&layout=donut&theme=dark&size_weight=0.9&count_weight=0.1)](https://github.com/anuraghazra/github-readme-stats)t
 
 
 
